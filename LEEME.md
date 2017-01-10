@@ -119,4 +119,19 @@ Este punto varia dependiendo de cada instalación, el único requisito es que el
 
 Agrego a este projecto el archivo `wpivec.sql` el cual contiene el script requerido para la creación de la base de datos. Se debe usar un manejador de base de datos para importar dicho archivo y recrear esta base de datos en tu servidor.
 
->__Nota:__ Si la base de datos se encuentra en blanco, al ir a la URL del sitio web, se verá la pantalla de instalación.
+>__Nota:__ Si la base de datos se encuentra en blanco, al ir a la URL del sitio web, se verá la pantalla de instalación. La base de datos debe ser restaurada antes de poder verl el sitio correctamente.
+
+## Tipografía oficial
+
+El archivo `fonts-GEV.zip` contiene las fuentes oficiales a usar, estas fuentes ya se encuentran instaladas en el sitio web en
+
+Las fuentes oficiales pueden ser descargadas de: [Descargar tipografía oficial](http://intranet.veracruz.gob.mx/files/2012/01/fonts-GEV.zip)
+
+### Uso de la tipografía oficial
+
+- `Neo Sans Pro Light` para pies de página y/o legales.
+- `Neo Sans Pro Italic` para pies de página y/o legales
+- `Neo Sans Pro Regular` para párrafos de texto.
+- `Neo Sans Pro Italic` para resaltar palabras dentro de párrafos de texto que tengan cierto grado de relevancia.
+- `Neo Sans Pro Bold` para cabezas en comunicación, títulos y/o para destacar palabras importantes dentro de párrafos de texto.
+- `Neo Sans Pro Bold Italic` puede utilizarse también para cabezas en comunicación y/o títulos para resaltar palabras dentro de los mismos.
